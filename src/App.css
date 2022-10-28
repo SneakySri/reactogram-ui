@@ -1,0 +1,69 @@
+.Body{
+  width: 920px;
+  /* background-color: ; */
+  height: fit-content;
+  margin-left: 250px;
+  position:absolute;
+  border: 1px solid black;
+  
+}
+
+.StatusBar{
+  /* background-color: ; */
+  width:600px;
+  height:90px;
+  display: flex;
+  margin-top: 20px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.img{
+  border-radius: 35px;
+  border: 3px dashed red;
+  height: 70px;
+  width: 70px;
+  margin-left: 20px;
+  margin-top: 7px;
+}
+
+.CompBody{
+  width: 600px;
+  height: fit-content;
+  /* background-color: ; */
+  border: 1px solid black;
+ 
+  
+}
+
+.card1{
+  
+  background-color: transparent;
+  margin-bottom: 25px;
+  margin-Top: 25px;
+  
+  margin-left: 50px;
+  
+
+  
+}
+
+.profilebox{
+  height: fit-content;
+  width:320px;
+  background-color: white;
+ 
+}
+
+.secondBody{
+  display: flex;
+  flex-direction: row;
+}
+
+#root{
+  background-image:  url("./resource/dp3.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+
+}
+
